@@ -44,7 +44,7 @@ body {
     font-size: 102px;
     line-height: 96px;
     font-weight: bold;
-    align-items: center;
+    z-index: 1;
 }
 
 .header__subtitle {
@@ -63,6 +63,7 @@ body {
     position: absolute;
     bottom: 0;
     right: 20px;
+    z-index: 2;
 }
 
 
