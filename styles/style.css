@@ -52,7 +52,6 @@ body {
     z-index: 1;
     width: 388px;
     left: 64px;
-    bottom: 30px;
     line-height: 25px;
     font-size: 18px;
     font-weight: normal;
@@ -154,7 +153,6 @@ body {
 .table__list-top {
     display: flex;
     list-style: none;
-    justify-content: center;
     margin-bottom: 60px;
     justify-content: space-between;
 }
@@ -282,7 +280,6 @@ body {
 .table__theme_dark_list-top {
     display: flex;
     list-style: none;
-    justify-content: center;
     margin-bottom: 60px;
     justify-content: space-between;
 }
