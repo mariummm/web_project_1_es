@@ -1,5 +1,5 @@
-.table__text {
+.footer__author {
+    line-height: 25px;
     font-size: 18px;
-    line-height: 120%;
     font-weight: normal;
 }

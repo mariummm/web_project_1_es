@@ -1,0 +1,7 @@
+.description {
+    display: flex;
+    border: 2px solid #F2F2F2;
+    margin-top: 100px;
+    position: relative;
+    justify-content: center;
+}

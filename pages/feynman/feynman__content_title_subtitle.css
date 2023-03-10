@@ -1,0 +1,8 @@
+    .feynman__content_title_subtitle {
+        position: absolute;
+        gap: 70px;
+        display: flex;
+        flex-direction: column;
+        top: 0px;
+        z-index: 1;
+    }

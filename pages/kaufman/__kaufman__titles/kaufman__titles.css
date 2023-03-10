@@ -1,0 +1,7 @@
+.kaufman__titles {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    color: white;
+    z-index: 1;
+}

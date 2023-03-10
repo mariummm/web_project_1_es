@@ -1,0 +1,6 @@
+.table__theme_dark_list-down {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    justify-content: space-between;
+}
