@@ -1,5 +1,8 @@
 @import url(../pages/body/body.css);
 @import url(../pages/pages.css);
+
+/*Header*/
+
 @import url(../pages/header/header.css);
 @import url(../pages/header/header__title.css);
 @import url(../pages/header/header__subtitle.css);
@@ -7,6 +10,9 @@
 @import url(../pages/header/header__square.css);
 @import url(../pages/header/main-ilustration.css);
 @import url(../pages/header/__logo__place_header/logo__place_header.css);
+
+/*content*/
+
 @import url(../pages/content/__description/description.css);
 @import url(../pages/content/__description/__two-columns/two-columns.css);
 @import url(../pages/content/__description/__two-columns/two-columns__brief.css);
@@ -14,6 +20,24 @@
 @import url(../pages/content/__description/__two-columns/two-columns__paragraph.css);
 @import url(../pages/content/__description/__two-columns/two-columns__span-accent.css);
 @import url(../pages/content/__description/__two-columns/[200~two-columns__brief);
+
+/*techniques*/
+
+@import url(../pages/techniques/techniques__small-cards.css);
+@import url(../pages/techniques/techniques__cards.css);
+@import url(../pages/techniques/__table/table__list-top_gap.css);
+
+/*video*/
+
+@import url(../pages/video/__titles/section__video_titles.css);
+@import url(../pages/video/video.css);
+
+/*oakley*/
+
+@import url(../pages/oakley/oakley.css);
+
+/*digits*/
+
 @import url(../pages/digits/digits.css);
 @import url(../pages/digits/section-subtitle.css);
 @import url(../pages/digits/section-title.css);
@@ -23,6 +47,9 @@
 @import url(../pages/digits/__table/table__list-down.css);
 @import url(../pages/digits/__table/table__list-top.css);
 @import url(../pages/digits/__table/table__text.css);
+
+/*feynman*/
+
 @import url(../pages/feynman/feynman.css);
 @import url(../pages/feynman/feynman__title.css);
 @import url(../pages/feynman/feynman__subtitle.css);
@@ -30,6 +57,9 @@
 @import url(../pages/feynman/feyman__image.css);
 @import url(../pages/feynman/_feynman__link/feynman__link.css);
 @import url(../pages/feynman/_feynman__link/feynman__link_text.css);
+
+/*kaufman*/
+
 @import url(../pages/kaufman/kaufman.css);
 @import url(../pages/kaufman/__kaufman__titles/kaufman__titles.css);
 @import url(../pages/kaufman/__kaufman__titles/section-title_theme_dark.css);
@@ -41,6 +71,9 @@
 @import url(../pages/kaufman/__table/__theme_dark/table__text_theme_dark.css);
 @import url(../pages/kaufman/__table/__theme_dark/__list/table__theme_dark_list-down.css);
 @import url(../pages/kaufman/__triangle/kaufman__triangle.css);
+
+/*footer*/
+
 @import url(../pages/footer/footer.css);
 @import url(../pages/footer/__columns/footer__columns.css);
 @import url(../pages/footer/__columns/__content/footer__columns_content_copyright.css);
