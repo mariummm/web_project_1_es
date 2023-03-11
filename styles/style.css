@@ -1,395 +1,56 @@
-* {
-    margin: 0px;
-    padding: 0px;
-    box-sizing: border-box;
-}
-
-body {
-    overflow-x: hidden;
-}
-
-.page {
-    min-width: 1100px;
-    max-width: 1600px;
-    margin: 0 auto;
-    font-family: 'Helvetica Neue', Arial, sans-serif;
-    border: 1px solid #F2F2F2;
-}
-
-.header {
-    height: 100vh;
-    min-height: 600px;
-    max-height: 756px;
-    display: flex;
-    align-items: center;
-    background-color: #F2F2F2;
-}
-
-.logo__place_header {
-    left: 64px;
-    top: 30px;
-    position: absolute;
-    z-index: 1;
-    display: flex;
-    align-items: flex-start;
-}
-
-.header__title {
-    width: 730px;
-    margin-left: 64px;
-    font-size: 102px;
-    line-height: 96px;
-    font-weight: bold;
-    align-self: center;
-    z-index: 3;
-}
-
-.header__subtitle {
-    position: absolute;
-    z-index: 1;
-    width: 388px;
-    left: 64px;
-    line-height: 25px;
-    font-size: 18px;
-    font-weight: normal;
-    bottom: 0px;
-    display: flex;
-    flex-direction: column;
-}
-
-.header__link {
-    color: #2F80ED;
-}
-
-.main-ilustration {
-    width: 608px;
-    position: absolute;
-    bottom: 0;
-    right: 20px;
-    z-index: 0;
-}
-
-.header__square {
-    bottom: 54px;
-    width: 568px;
-    position: absolute;
-    background-color: #2F80ED;
-    top: 64px;
-    right: 0;
-    margin: auto;
-}
-
-.description {
-    display: flex;
-    border: 2px solid #F2F2F2;
-    margin-top: 100px;
-    position: relative;
-    justify-content: center;
-}
-
-.two-columns {
-    width: 80%;
-    display: flex;
-    justify-content: space-between;
-    gap: 20px;
-    margin-top: 100px;
-    margin-bottom: 100px;
-}
-
-.two-columns__brief {
-    padding-left: 100px;
-    color: #2F80ED;
-    font-size: 18px;
-    font-weight: normal;
-    line-height: 1.2;
-}
-
-.two-columns__main-text {
-    display: flex;
-    justify-content: center;
-}
-
-.two-columns__paragraph {
-    width: 80%;
-    min-width: 784px;
-    font-size: 24px;
-    line-height: 34px;
-    font-weight: normal;
-    gap: 20px;
-    display: flex;
-    flex-wrap: wrap;
-}
-
-.two-columns__span-accent {
-    font-weight: bold;
-}
-
-.digits {
-    margin-top: 100px;
-}
-
-.section-title {
-    text-align: center;
-    margin-top: 100px;
-    font-size: 60px;
-    line-height: 1.5px;
-    font-weight: bold;
-}
-
-.section-subtitle {
-    margin-top: 60px;
-    text-align: center;
-    font-size: 24px;
-    line-height: 34px;
-    font-weight: normal;
-}
-
-.table {
-    margin: auto;
-    margin-top: 60px;
-    margin-bottom: 100px;
-    width: 1100px;
-    display: flex;
-    flex-wrap: wrap;
-}
-
-.table__list-top {
-    display: flex;
-    list-style: none;
-    margin-bottom: 60px;
-    justify-content: space-between;
-}
-
-.table__list-down {
-    display: flex;
-    list-style: none;
-    justify-content: center;
-    justify-content: space-between;
-}
-
-.table__cell {
-    width: 230px;
-    height: 180px;
-    margin: 15px;
-}
-
-.table__heading {
-    font-size: 24px;
-    line-height: 150%;
-    font-weight: bold;
-    margin-bottom: 30px;
-}
-
-.table__text {
-    font-size: 18px;
-    line-height: 120%;
-    font-weight: normal;
-}
-
-.feynman {
-    margin-top: 100px;
-    height: 790px;
-    position: relative;
-}
-
-.feynman__content_title_subtitle {
-    position: absolute;
-    gap: 70px;
-    display: flex;
-    flex-direction: column;
-    top: 0px;
-    z-index: 1;
-}
-
-.feynman__title {
-    text-align: center;
-    font-size: 120px;
-    line-height: 1.15;
-    font-weight: bold;
-}
-
-.feynman__subtitle {
-    font-size: 51px;
-    line-height: 36px;
-    font-weight: normal;
-    text-align: center;
-}
-
-.feynman__link {
-    top: 50%;
-    right: 48px;
-    position: absolute;
-}
-
-.feynman__link_text {
-    font-size: 51px;
-    line-height: 36px;
-    font-weight: normal;
-    color: #2F80ED;
-}
-
-.feyman__image {
-    position: absolute;
-    bottom: 0px;
-    height: 867px;
-    width: 637px;
-    padding-top: 232px;
-}
-
-.kaufman {
-    padding-top: 90px;
-    margin-bottom: 0px;
-    display: flex;
-    align-content: center;
-    flex-wrap: wrap;
-    position: relative;
-    background-color: black;
-    overflow: hidden;
-}
-
-.kaufman__titles {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    color: white;
-    z-index: 1;
-}
-
-.section-title_theme_dark {
-    text-align: center;
-    margin-top: 100px;
-    font-size: 34px;
-    font-weight: bold;
-    color: white;
-}
-
-.section-subtitle_theme_dark {
-    text-align: center;
-    margin-top: 20px;
-    font-size: 24px;
-    line-height: 34px;
-    font-weight: normal;
-    color: white;
-}
-
-.table_theme_dark {
-    margin: auto;
-    padding-top: 90px;
-    padding-bottom: 90px;
-    width: 1100px;
-    z-index: 1;
-}
-
-.table__theme_dark_list-top {
-    display: flex;
-    list-style: none;
-    margin-bottom: 60px;
-    justify-content: space-between;
-}
-
-.table__theme_dark_list-down {
-    display: flex;
-    list-style: none;
-    justify-content: center;
-    justify-content: space-between;
-}
-
-.table__cell_theme_dark {
-    width: 200px;
-    margin-right: 0;
-    margin-top: 80px;
-}
-
-.table__heading_theme_dark {
-    font-size: 60px;
-    line-height: 150%;
-    font-weight: bold;
-    margin-bottom: 30px;
-    color: white;
-}
-
-.table__text_theme_dark {
-    font-size: 18px;
-    line-height: 1.2;
-    font-weight: normal;
-    color: white;
-}
-
-.kaufman__triangle {
-    position: absolute;
-    right: -124px;
-}
-
-.footer {
-    background-color: black;
-    color: white;
-}
-
-.footer__columns {
-    display: flex;
-    justify-content: space-between;
-    padding-top: 60px;
-    padding-bottom: 40px;
-}
-
-.footer__columns_content_copyright {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    padding-left: 30px;
-}
-
-.footer__author {
-    line-height: 25px;
-    font-size: 18px;
-    font-weight: normal;
-}
-
-.footer__columns_content_about_social {
-    display: flex;
-    gap: 100px;
-    padding-right: 20px;
-}
-
-.footer__column-heading {
-    font-size: 18px;
-}
-
-.footer__column-heading_title_about {
-    margin-bottom: 20px;
-    line-height: 30px;
-    font-size: 18px;
-    font-weight: bold;
-}
-
-.footer__column_nav {
-    padding: 0px;
-}
-
-.ul-content {
-    list-style: none;
-    line-height: 30px;
-    font-size: 18px;
-    font-weight: normal;
-}
-
-.footer__column-heading_title_social {
-    margin-bottom: 20px;
-}
-
-.footer__social-icons {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-}
-
-.footer-icon {
-    margin-right: 10px;
-}
-
-a {
-    color: white;
-    line-height: 25px;
-    font-size: 18px;
-    font-weight: normal;
-}
+@import url(../pages/body/body.css);
+@import url(../pages/pages.css);
+@import url(../pages/header/header.css);
+@import url(../pages/header/header__title.css);
+@import url(../pages/header/header__subtitle.css);
+@import url(../pages/header/header_link.css);
+@import url(../pages/header/header__square.css);
+@import url(../pages/header/main-ilustration.css);
+@import url(../pages/header/__logo__place_header/logo__place_header.css);
+@import url(../pages/content/__description/description.css);
+@import url(../pages/content/__description/__two-columns/two-columns.css);
+@import url(../pages/content/__description/__two-columns/two-columns__brief.css);
+@import url(../pages/content/__description/__two-columns/two-columns__main-text.css);
+@import url(../pages/content/__description/__two-columns/two-columns__paragraph.css);
+@import url(../pages/content/__description/__two-columns/two-columns__span-accent.css);
+@import url(../pages/content/__description/__two-columns/[200~two-columns__brief);
+@import url(../pages/digits/digits.css);
+@import url(../pages/digits/section-subtitle.css);
+@import url(../pages/digits/section-title.css);
+@import url(../pages/digits/__table/table.css);
+@import url(../pages/digits/__table/table__cell.css);
+@import url(../pages/digits/__table/table__heading.css);
+@import url(../pages/digits/__table/table__list-down.css);
+@import url(../pages/digits/__table/table__list-top.css);
+@import url(../pages/digits/__table/table__text.css);
+@import url(../pages/feynman/feynman.css);
+@import url(../pages/feynman/feynman__title.css);
+@import url(../pages/feynman/feynman__subtitle.css);
+@import url(../pages/feynman/feynman__content_title_subtitle.css);
+@import url(../pages/feynman/feyman__image.css);
+@import url(../pages/feynman/_feynman__link/feynman__link.css);
+@import url(../pages/feynman/_feynman__link/feynman__link_text.css);
+@import url(../pages/kaufman/kaufman.css);
+@import url(../pages/kaufman/__kaufman__titles/kaufman__titles.css);
+@import url(../pages/kaufman/__kaufman__titles/section-title_theme_dark.css);
+@import url(../pages/kaufman/__kaufman__titles/section-subtitle_theme_dark.css);
+@import url(../pages/kaufman/__table/__theme_dark/table_theme_dark.css);
+@import url(../pages/kaufman/__table/__theme_dark/__list/table__theme_dark_list-top.css);
+@import url(../pages/kaufman/__table/__theme_dark/table__cell_theme_dark.css);
+@import url(../pages/kaufman/__table/__theme_dark/table__heading_theme_dark.css);
+@import url(../pages/kaufman/__table/__theme_dark/table__text_theme_dark.css);
+@import url(../pages/kaufman/__table/__theme_dark/__list/table__theme_dark_list-down.css);
+@import url(../pages/kaufman/__triangle/kaufman__triangle.css);
+@import url(../pages/footer/footer.css);
+@import url(../pages/footer/__columns/footer__columns.css);
+@import url(../pages/footer/__columns/__content/footer__columns_content_copyright.css);
+@import url(../pages/footer/footer__author.css);
+@import url(../pages/footer/__columns/__content/footer__columns_content_about_social.css);
+@import url(../pages/footer/__columns/__heading/footer__column-heading.css);
+@import url(../pages/footer/__columns/__heading/footer__column-heading_title_about.css);
+@import url(../pages/footer/__columns/footer__column_nav.css);
+@import url(../pages/footer/__columns/__content/ul-content.css);
+@import url(../pages/footer/a/a.css);
+@import url(../pages/footer/__columns/__heading/footer__column-heading_title_social);
+@import url(../pages/footer/__icon/footer__social-icons.css);
+@import url(../pages/footer/__icon/footer-icon.css);
