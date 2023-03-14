@@ -32,6 +32,7 @@
 @import url(../pages/video/__titles/section__video_titles.css);
 @import url(../pages/video/video.css);
 @import url(../pages/video/video__iframes.css);
+@import url(../pages/video/__iframe/iframe.css);
 
 /*oakley*/
 
@@ -58,6 +59,13 @@
 @import url(../pages/feynman/feyman__image.css);
 @import url(../pages/feynman/_feynman__link/feynman__link.css);
 @import url(../pages/feynman/_feynman__link/feynman__link_text.css);
+
+/*khan*/
+
+@import url(../pages/khan/__container/khan__container.css);
+@import url(../pages/khan/__book/khan__book-container.css);
+@import url(../pages/khan/__buy-link/khan__buy-link.css);
+@import url(../pages/khan/__book/book-pic.css);
 
 /*kaufman*/
 
