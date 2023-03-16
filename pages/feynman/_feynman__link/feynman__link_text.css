@@ -1,6 +1,14 @@
 .feynman__link_text {
-    font-size: 51px;
+    right: 81px;
+    position: absolute;
     line-height: 36px;
+    font-size: 51px;
     font-weight: normal;
     color: #2F80ED;
+    opacity: 1 !important;
+    transition: opacity 0.5s ease;
+}
+
+.feynman__link_text:hover {
+    opacity: 0.5 !important;
 }

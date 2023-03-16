@@ -1,5 +1,6 @@
 .feynman {
-    margin-top: 100px;
+    top: -312px;
     height: 790px;
     position: relative;
+    background-color: #eee;
 }

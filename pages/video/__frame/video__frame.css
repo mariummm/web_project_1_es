@@ -1,0 +1,6 @@
+.video__frame {
+    height: 190px;
+    background-color: #eee;
+    position: relative;
+    top: -60px;
+}
