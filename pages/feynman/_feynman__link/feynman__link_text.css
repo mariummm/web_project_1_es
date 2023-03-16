@@ -1,12 +1,14 @@
 .feynman__link_text {
+    z-index: 1;
     right: 81px;
     position: absolute;
     line-height: 36px;
     font-size: 51px;
     font-weight: normal;
     color: #2F80ED;
-    opacity: 1 !important;
+    opacity: 1;
     transition: opacity 0.5s ease;
+    top: 50%;
 }
 
 .feynman__link_text:hover {

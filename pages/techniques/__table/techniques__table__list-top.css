@@ -1,8 +1,8 @@
-.table__list-top {
+.techniques__table__list-top {
     display: flex;
     list-style: none;
     margin-bottom: 130px;
     justify-content: space-between;
     gap: 90px;
-    padding: 60px;
+    padding: 140px;
 }

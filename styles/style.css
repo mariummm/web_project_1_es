@@ -8,6 +8,7 @@
 @import url(../pages/header/header__subtitle.css);
 @import url(../pages/header/header_link.css);
 @import url(../pages/header/header__square.css);
+@import url(../pages/header/rotation/rotation.css);
 @import url(../pages/header/main-ilustration.css);
 @import url(../pages/header/__logo__place_header/logo__place_header.css);
 
@@ -23,7 +24,7 @@
 
 /*techniques*/
 
-@import url(../pages/techniques/__table/table__list-top.css);
+@import url(../pages/techniques/__table/techniques__table__list-top.css);
 @import url(../pages/techniques/__cards/techniques__cards.css);
 @import url(../pages/techniques/__cards/cards__image.css);
 @import url(../pages/techniques/__cards/cards__title.css);
@@ -51,8 +52,8 @@
 @import url(../pages/digits/__table/table.css);
 @import url(../pages/digits/__table/table__cell.css);
 @import url(../pages/digits/__table/table__heading.css);
-@import url(../pages/digits/__table/table__list-down.css);
 @import url(../pages/digits/__table/table__list-top.css);
+@import url(../pages/digits/__table/table__list-down.css);
 @import url(../pages/digits/__table/table__text.css);
 
 /*feynman*/
@@ -67,6 +68,11 @@
 /*khan*/
 
 @import url(../pages/khan/khan.css);
+@import url(../pages/khan/__author/khan__author.css);
+@import url(../pages/khan/__title/khan__title.css);
+@import url(../pages/khan/__quote/khan__quote.css);
+@import url(../pages/khan/__quote-author/khan__quote-author.css);
+@import url(../pages/khan/__quote-author/khan__quote-author-subline.css);
 @import url(../pages/khan/__container/khan__container.css);
 @import url(../pages/khan/__book/khan__book-container.css);
 @import url(../pages/khan/__buy-link/khan__buy-link.css);
@@ -85,6 +91,13 @@
 @import url(../pages/kaufman/__table/__theme_dark/table__text_theme_dark.css);
 @import url(../pages/kaufman/__table/__theme_dark/__list/table__theme_dark_list-down.css);
 @import url(../pages/kaufman/__triangle/kaufman__triangle.css);
+
+/*resources*/
+
+@import url(../pages/resources/__titles/resources__section-title.css);
+@import url(../pages/resources/__titles/resources__section-subtitle.css);
+@import url(../pages/resources/resources__logo-zone.css);
+@import url(../pages/resources/resources__logo.css);
 
 /*footer*/
 

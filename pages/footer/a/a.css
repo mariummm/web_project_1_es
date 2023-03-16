@@ -3,4 +3,10 @@ a {
     line-height: 25px;
     font-size: 18px;
     font-weight: normal;
+    opacity: 1;
+    transition: opacity 0.5s ease;
+}
+
+a:hover {
+    opacity: 0.5;
 }
