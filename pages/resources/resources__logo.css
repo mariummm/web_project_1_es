@@ -1,6 +1,10 @@
 .resources__logo {
-    height: 50%;
-    width: 20%;
+    width: 90%;
     padding-top: 80px;
-    padding-bottom: 217px;
+    display: flex;
+}
+
+.resources__logo a {
+    flex: none;
+    display: inline-block;
 }
