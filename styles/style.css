@@ -1,3 +1,4 @@
+@import url(../styles/normalize.css);
 @import url(../pages/body/body.css);
 @import url(../pages/pages.css);
 
@@ -111,6 +112,6 @@
 @import url(../pages/footer/__columns/footer__column_nav.css);
 @import url(../pages/footer/__columns/__content/ul-content.css);
 @import url(../pages/footer/a/a.css);
-@import url(../pages/footer/__columns/__heading/footer__column-heading_title_social);
+@import url(../pages/footer/__columns/__heading/footer__column-heading_title_social.css);
 @import url(../pages/footer/__icon/footer__social-icons.css);
 @import url(../pages/footer/__icon/footer-icon.css);
