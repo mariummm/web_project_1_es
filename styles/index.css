@@ -5,7 +5,7 @@
 /*Header*/
 
 @import url(../blocks/header/header.css);
-@import url(../blocks/header/__logo/logo__place_header.css);
+@import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/header__title.css);
 @import url(../blocks/header/header__subtitle.css);
 @import url(../blocks/header/header_link.css);
@@ -25,19 +25,17 @@
 
 /*techniques*/
 
-@import url(../blocks/techniques/__table/techniques__table.css);
-@import url(../blocks/techniques/__table/techniques__table__cell.css);
-@import url(../blocks/techniques/__cards/techniques__cards.css);
-@import url(../blocks/techniques/__cards/techniques__cards__image.css);
-@import url(../blocks/techniques/__table/techniques__table__heading.css);
+@import url(../blocks/techniques/__title/techniques__title.css);
+@import url(../blocks/techniques/__subtitle/techniques__subtitle.css);
+@import url(../blocks/techniques/__cards/cards__item.css);
+@import url(../blocks/techniques/__cards/cards__image.css);
 @import url(../blocks/techniques/__cards/cards__title.css);
 @import url(../blocks/techniques/__cards/cards__description.css);
 
 /*video*/
 
-@import url(../blocks/video/__titles/section__video_titles.css);
-@import url(../blocks/video/__titles/section-title.css);
-@import url(../blocks/video/__titles/section-subtitle.css);
+@import url(../blocks/video/__title/video__title.css);
+@import url(../blocks/video/__subtitle/video__subtitle.css);
 @import url(../blocks/video/video.css);
 @import url(../blocks/video/video__iframes.css);
 @import url(../blocks/video/__iframe/iframe.css);
@@ -46,6 +44,10 @@
 /*oakley*/
 
 @import url(../blocks/oakley/oakley.css);
+@import url(../blocks/oakley/__two-columns/oakley__two-columns.css);
+@import url(../blocks/oakley/__two-columns/_brief/oakley__two-columns_brief.css);
+@import url(../blocks/oakley/__two-columns/_text/oakley__two-columns_text.css);
+@import url(../blocks/oakley/__two-columns/_paragraph/oakley__two-columns_paragraph.css);
 
 /*digits*/
 
