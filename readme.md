@@ -1,4 +1,5 @@
 <img src="https://media.giphy.com/media/ZY3W96Mvat8EFTCclA/giphy.gif">
+
 # Aprender a aprender
 ____
 Este proyecto es una página web realizada siguiendo estrictamente las indicaciones del **curso de desarrollo web** como parte de una de las tareas que son requisito para aprobar dicho curso. 

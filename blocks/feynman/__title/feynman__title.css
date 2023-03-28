@@ -5,4 +5,5 @@
     line-height: 1.15;
     font-weight: bold;
     top: -140px;
+    z-index: 1;
 }
