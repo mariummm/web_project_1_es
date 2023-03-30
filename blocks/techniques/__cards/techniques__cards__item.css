@@ -1,7 +1,7 @@
-.cards__item {
+.techniques__cards__item {
     display: flex;
+    flex-wrap: wrap;
     list-style: none;
     margin-bottom: 130px;
     gap: 90px;
-    padding: 140px;
 }

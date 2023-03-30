@@ -27,10 +27,11 @@
 
 @import url(../blocks/techniques/__title/techniques__title.css);
 @import url(../blocks/techniques/__subtitle/techniques__subtitle.css);
-@import url(../blocks/techniques/__cards/cards__item.css);
-@import url(../blocks/techniques/__cards/cards__image.css);
-@import url(../blocks/techniques/__cards/cards__title.css);
-@import url(../blocks/techniques/__cards/cards__description.css);
+@import url(../blocks/techniques/__cards/techniques__cards.css);
+@import url(../blocks/techniques/__cards/techniques__cards__item.css);
+@import url(../blocks/techniques/__cards/techniques__cards__image.css);
+@import url(../blocks/techniques/__cards/techniques__cards__title.css);
+@import url(../blocks/techniques/__cards/techniques__cards__description.css);
 
 /*video*/
 
