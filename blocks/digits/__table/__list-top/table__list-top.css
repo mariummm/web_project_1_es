@@ -1,5 +1,6 @@
 .table__list-top {
     display: flex;
+    flex-wrap: wrap;
     list-style: none;
     margin-bottom: 60px;
     justify-content: space-between;

@@ -46,9 +46,7 @@
 
 @import url(../blocks/oakley/oakley.css);
 @import url(../blocks/oakley/__two-columns/oakley__two-columns.css);
-@import url(../blocks/oakley/__two-columns/_brief/oakley__two-columns_brief.css);
-@import url(../blocks/oakley/__two-columns/_text/oakley__two-columns_text.css);
-@import url(../blocks/oakley/__two-columns/_paragraph/oakley__two-columns_paragraph.css);
+@import url(../blocks/oakley/__two-columns/_bluetitle/oakley__two-columns_bluetitle.css);
 
 /*digits*/
 
