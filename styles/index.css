@@ -28,10 +28,10 @@
 @import url(../blocks/techniques/__title/techniques__title.css);
 @import url(../blocks/techniques/__subtitle/techniques__subtitle.css);
 @import url(../blocks/techniques/__cards/techniques__cards.css);
-@import url(../blocks/techniques/__cards/techniques__cards__item.css);
-@import url(../blocks/techniques/__cards/techniques__cards__image.css);
-@import url(../blocks/techniques/__cards/techniques__cards__title.css);
-@import url(../blocks/techniques/__cards/techniques__cards__description.css);
+@import url(../blocks/techniques/__cards/_item/techniques__cards_item.css);
+@import url(../blocks/techniques/__cards/_image/techniques__cards_image.css);
+@import url(../blocks/techniques/__cards/_title/techniques__cards_title.css);
+@import url(../blocks/techniques/__cards/_description/techniques__cards_description.css);
 
 /*video*/
 
@@ -46,7 +46,7 @@
 
 @import url(../blocks/oakley/oakley.css);
 @import url(../blocks/oakley/__two-columns/oakley__two-columns.css);
-@import url(../blocks/oakley/__two-columns/_bluetitle/oakley__two-columns_bluetitle.css);
+@import url(../blocks/oakley/__two-columns/_blue/oakley__two-columns_blue.css);
 
 /*digits*/
 
@@ -56,8 +56,7 @@
 @import url(../blocks/digits/__table/table.css);
 @import url(../blocks/digits/__table/__cell/table__cell.css);
 @import url(../blocks/digits/__table/__heading/table__heading.css);
-@import url(../blocks/digits/__table/__list-top/table__list-top.css);
-@import url(../blocks/digits/__table/__list-down/table__list-down.css);
+@import url(../blocks/digits/__table/__list/table__list.css);
 @import url(../blocks/digits/__table/__text/table__text.css);
 
 /*feynman*/
