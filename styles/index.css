@@ -46,13 +46,13 @@
 
 @import url(../blocks/oakley/oakley.css);
 @import url(../blocks/oakley/__two-columns/oakley__two-columns.css);
-@import url(../blocks/oakley/__two-columns/_blue/oakley__two-columns_blue.css);
+@import url(../blocks/oakley/__two-columns/_blue/oakley_two-columns_blue.css);
 
 /*digits*/
 
 @import url(../blocks/digits/digits.css);
-@import url(../blocks/digits/__title/digits__title.css);
-@import url(../blocks/digits/__subtitle/digits__subtitle.css);
+@import url(../blocks/digits/__title/section-title.css);
+@import url(../blocks/digits/__subtitle/section-subtitle.css);
 @import url(../blocks/digits/__table/table.css);
 @import url(../blocks/digits/__table/__cell/table__cell.css);
 @import url(../blocks/digits/__table/__heading/table__heading.css);
@@ -83,14 +83,13 @@
 /*kaufman*/
 
 @import url(../blocks/kaufman/kaufman.css);
-@import url(../blocks/kaufman/__title/kaufman__title_theme_dark.css);
-@import url(../blocks/kaufman/__subtitle/kaufman__subtitle_theme_dark.css);
-@import url(../blocks/kaufman/__table/_theme/kaufman__table_theme_dark.css);
-@import url(../blocks/kaufman/__table/_theme/__list/kaufman__table__theme_dark_list-top.css);
-@import url(../blocks/kaufman/__table/_theme/_cell/kaufman__table__cell_theme_dark.css);
-@import url(../blocks/kaufman/__table/_theme/_heading/kaufman__table__heading_theme_dark.css);
-@import url(../blocks/kaufman/__table/_theme/_text/kaufman__table__text_theme_dark.css);
-@import url(../blocks/kaufman/__table/_theme/__list/kaufman__table__theme_dark_list-down.css);
+@import url(../blocks/kaufman/__title/section-title_theme_dark.css);
+@import url(../blocks/kaufman/__subtitle/section-subtitle_theme_dark.css);
+@import url(../blocks/kaufman/__table/table_theme_dark.css);
+@import url(../blocks/kaufman/__table/__list/table__list_theme_dark.css);
+@import url(../blocks/kaufman/__table/__cell/table__cell_theme_dark.css);
+@import url(../blocks/kaufman/__table/__heading/table__heading_theme_dark.css);
+@import url(../blocks/kaufman/__table/__text/table__text_theme_dark.css);
 @import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
 
 /*resources*/
