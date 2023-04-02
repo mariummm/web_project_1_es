@@ -1,6 +1,7 @@
-.kaufman__table__theme_dark_list-top {
+.table__list_theme_dark {
     display: flex;
     list-style: none;
     margin-bottom: 60px;
     justify-content: space-between;
+    flex-wrap: nowrap;
 }
