@@ -5,7 +5,8 @@
 /*Header*/
 
 @import url(../blocks/header/header.css);
-@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__logo/logo.css);
+@import url(../blocks/header/__logo/logo_place_header.css);
 @import url(../blocks/header/header__title.css);
 @import url(../blocks/header/header__subtitle.css);
 @import url(../blocks/header/header_link.css);
@@ -104,6 +105,7 @@
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
 @import url(../blocks/footer/__columns/_copyright/footer__column_content_copyright.css);
+@import url(../blocks/footer/__columns/_copyright/__logo/logo_place_footer.css);
 @import url(../blocks/footer/__columns/_copyright/__author/footer__author.css);
 @import url(../blocks/footer/__columns/_about/footer__column_content_about.css);
 @import url(../blocks/footer/__columns/_heading/footer__column-heading.css);

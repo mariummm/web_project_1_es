@@ -38,6 +38,6 @@ Se utilizó [w3schools.com](https://www.w3schools.com/) y [codebeautify](https:/
 Se continuará construyendo la página en el siguiente módulo de aprendizaje.
 
 ## CREDITOS
-Esta página web fue realizada por María Eugenia Porras gracias a la información suministrada por PRACTICUM tal como el archivo normalize.css así como todas las imágenes y videos. Siendo de suma importancia la guía recibida por parte de los tutores Horacio y Sarah para poder cumplir con los objetivos.
+Esta página web fue realizada por María Eugenia Porras gracias a la información suministrada por PRACTICUM tal como el archivo normalize.css así como todas las imágenes y videos. Siendo de suma importancia la guía recibida por parte de los tutores Horacio, Sarah y Christian para poder cumplir con los objetivos.
 Fecha de creación: 17 de Marzo del 2023
 
