@@ -103,13 +103,12 @@
 
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
-@import url(../blocks/footer/__columns/__content/_content_copyright/footer__columns_content_copyright.css);
-@import url(../blocks/footer/__author/footer__author.css);
-@import url(../blocks/footer/__columns/__content/_about_social/footer__columns_content_about_social.css);
-@import url(../blocks/footer/__columns/__heading/footer__column-heading.css);
-@import url(../blocks/footer/__columns/__heading/_title_about/footer__column-heading_title_about.css);
-@import url(../blocks/footer/__columns/_nav/footer__column_nav.css);
-@import url(../blocks/footer/__columns/__content/_ul/ul-content.css);
-@import url(../blocks/footer/a/a.css);
-@import url(../blocks/footer/__icon/__social-icons/footer__social-icons.css);
-@import url(../blocks/footer/__icon/__icon/footer__icon.css);
+@import url(../blocks/footer/__columns/_copyright/footer__column_content_copyright.css);
+@import url(../blocks/footer/__columns/_copyright/__author/footer__author.css);
+@import url(../blocks/footer/__columns/_about/footer__column_content_about.css);
+@import url(../blocks/footer/__columns/_heading/footer__column-heading.css);
+@import url(../blocks/footer/__columns/_about/__list/footer__list.css);
+@import url(../blocks/footer/__columns/_about/__list/_bpoints/footer__list_bpoints.css);
+@import url(../blocks/footer/__columns/_social/footer__column_content_social.css);
+@import url(../blocks/footer/__columns/_social/footer__social-icons.css);
+@import url(../blocks/footer/__columns/_social/__icon/footer__icon.css);
