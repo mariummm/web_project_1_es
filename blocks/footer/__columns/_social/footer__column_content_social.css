@@ -1,5 +1,6 @@
-.footer__columns_content_about {
+.footer__column_content_social {
     display: flex;
     flex-direction: column;
     padding-top: 0px;
+    padding-right: 20px;
 }
