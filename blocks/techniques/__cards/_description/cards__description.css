@@ -1,8 +1,10 @@
-.techniques__cards-description {
+.cards__description {
     font-size: 18px;
     line-height: 23px;
     font-weight: normal;
     width: 160px;
     height: 160px;
     text-align: center;
+    margin-top: 16px;
+    padding: 0 40px;
 }

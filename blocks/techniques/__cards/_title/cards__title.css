@@ -1,8 +1,8 @@
-.techniques__cards-title {
+.cards__title {
     font-size: 24px;
     line-height: 1.15;
     font-weight: bold;
-    margin-bottom: 30px;
     width: 160px;
+    padding: 0 40px;
     text-align: center;
 }
