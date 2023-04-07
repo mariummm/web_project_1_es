@@ -1,0 +1,19 @@
+.table_theme_dark {
+    margin-bottom: 60px;
+    margin: auto;
+    width: 1100px;
+    z-index: 1;
+    padding-bottom: 90px;
+}
+
+
+/* 
+    display: flex;
+    list-style: none;
+    margin-bottom: 60px;
+    justify-content: space-between;
+    margin: auto;
+    width: 1100px;
+    z-index: 1;
+    padding-bottom: 90px; 
+    */

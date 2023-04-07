@@ -83,7 +83,7 @@
 @import url(../blocks/kaufman/__title/section-title_theme_dark.css);
 @import url(../blocks/kaufman/__subtitle/section-subtitle_theme_dark.css);
 @import url(../blocks/kaufman/__table/table_theme_dark.css);
-@import url(../blocks/kaufman/__table/__list/table__list_theme_dark.css);
+@import url(../blocks/kaufman/__table/_theme_dark/table_theme_dark.css);
 @import url(../blocks/kaufman/__table/__cell/table__cell_theme_dark.css);
 @import url(../blocks/kaufman/__table/__heading/table__heading_theme_dark.css);
 @import url(../blocks/kaufman/__table/__text/table__text_theme_dark.css);
