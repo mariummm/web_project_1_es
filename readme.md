@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/cI9DFvJhvmjmYiC6sR" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pattern-grid-patterns-cI9DFvJhvmjmYiC6sR">via GIPHY</a></p>">
+<iframe src="https://giphy.com/embed/cI9DFvJhvmjmYiC6sR" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pattern-grid-patterns-cI9DFvJhvmjmYiC6sR">via GIPHY</a></p>
 
 # Aprender a aprender
 ____
