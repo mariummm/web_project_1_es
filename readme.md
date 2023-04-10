@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/ZY3W96Mvat8EFTCclA/giphy.gif">
+<img src="https://giphy.com/gifs/pattern-grid-patterns-cI9DFvJhvmjmYiC6sR">
 
 # Aprender a aprender
 ____
