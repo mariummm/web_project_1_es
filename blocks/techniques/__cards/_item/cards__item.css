@@ -1,7 +1,3 @@
 .cards__item {
-    display: flex;
-    flex-wrap: wrap;
-    list-style: none;
     width: 240px;
-    box-sizing: border-box;
 }

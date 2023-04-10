@@ -1,9 +1,0 @@
-.table__list {
-    display: flex;
-    flex-wrap: wrap;
-    list-style: none;
-    margin-bottom: 60px;
-    justify-content: space-between;
-    padding: 0;
-    gap: 0;
-}

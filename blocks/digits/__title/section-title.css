@@ -1,7 +1,9 @@
 .section-title {
     text-align: center;
-    margin-top: 100px;
+    margin: 0 auto;
     font-size: 60px;
     line-height: 1.5px;
     font-weight: bold;
+    width: 60%;
+    padding-bottom: 20px;
 }

@@ -1,12 +1,9 @@
 .header__subtitle {
     position: absolute;
-    z-index: 1;
     width: 388px;
     left: 64px;
     line-height: 25px;
     font-size: 18px;
     font-weight: normal;
     bottom: 0px;
-    display: flex;
-    flex-direction: column;
 }

@@ -1,0 +1,12 @@
+.footer__column_content_social {
+    row-gap: normal;
+    display: flex;
+    flex-direction: column;
+}
+
+
+/*
+   display: flex;
+    flex-direction: column;
+    padding-top: 0px;
+    padding-right: 20px;
