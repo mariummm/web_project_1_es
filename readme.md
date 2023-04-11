@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="(https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47c97cg08ddl9t8qek95qixtlct1raoox2mdxue362&rid=giphy.gif&ct=g">
-</p>
+
+![Git](https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47c97cg08ddl9t8qek95qixtlct1raoox2mdxue362&rid=giphy.gif&ct=g)
 
 
 # Aprender a aprender
