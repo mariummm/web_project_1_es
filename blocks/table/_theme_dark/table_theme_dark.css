@@ -1,4 +1,5 @@
 .table_theme_dark {
-    row-gap: inherit;
+    row-gap: 80px;
     padding-top: 80px;
+    z-index: 1;
 }
